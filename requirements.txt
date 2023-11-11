@@ -1,0 +1,4 @@
+pandas
+numpy
+matplotlib
+-e . #it automatically trigger setup.py
