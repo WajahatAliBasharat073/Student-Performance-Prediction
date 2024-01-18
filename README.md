@@ -11,10 +11,12 @@ The project is implemented in Python and requires the following libraries:
 -pandas
 - Matplotlib
 - Flask
-- Methodology
+
+ 
+ ## Methodology
 
 
-### **The project follows these steps:**
+**The project follows these steps:**
 
 - Data cleaning: Remove missing values, outliers, and irrelevant features from the dataset.
 - Data preprocessing: Encode categorical variables, normalize numerical variables, and split the data into training and testing sets.
